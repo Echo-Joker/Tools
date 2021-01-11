@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Tools'
-  s.version          = '1.1.0'
+  s.version          = '1.2.0'
   s.summary          = '私有仓库'
 
 # This description is used to generate tags and improve search results.
