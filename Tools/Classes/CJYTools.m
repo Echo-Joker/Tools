@@ -8,5 +8,8 @@
 #import "CJYTools.h"
 
 @implementation CJYTools
-
++ (void)log
+{
+    NSLog(@"haha");
+}
 @end
