@@ -7,6 +7,7 @@
 //
 
 #import "CJYViewController.h"
+#import "CJYTools.h"
 
 @interface CJYViewController ()
 
@@ -18,6 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    [CJYTools log];
 }
 
 - (void)didReceiveMemoryWarning
